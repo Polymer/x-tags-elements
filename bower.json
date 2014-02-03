@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "platform": "Polymer/platform#master",
+    "platform": "Polymer/platform#0.1.4",
     "x-tag-core": "x-tag/core#master",
     "iconbutton": "x-tag/iconbutton#master",
     "tabbar": "x-tag/tabbar#master"
